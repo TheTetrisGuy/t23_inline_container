@@ -4,6 +4,7 @@
     "type": "typo3-cms-extension",
     "homepage": "https://www.team23.de/",
     "license": "GPL-2.0-or-later",
+    "version": 1.0.0,
     "require": {
         "typo3/cms-core": "^11.5 || ^12.4",
         "b13/container": "^2.3.1 || ^3.0 "
