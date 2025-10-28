@@ -1,6 +1,6 @@
 {
-    "name": "team23/t23-inline-container",
-    "description": "An extension to manage content elements inline in b13/container similar like possible in gridelementsteam/gridelements before.",
+    "name": "thetetrisguy/t23-inline-container",
+    "description": "This is a fork of an extension to manage content elements inline in b13/container similar like possible in gridelementsteam/gridelements before.",
     "type": "typo3-cms-extension",
     "homepage": "https://www.team23.de/",
     "license": "GPL-2.0-or-later",
@@ -17,7 +17,12 @@
             "name": "Tim Dreier",
             "email": "dreier@team23.de",
             "role": "Developer"
-        }
+        },
+	{
+		"name": "Viktor Gense",
+		"email": "viktor.gense@hdnet.de",
+		"role": "Developer"
+	}
     ],
     "autoload": {
         "psr-4": {
